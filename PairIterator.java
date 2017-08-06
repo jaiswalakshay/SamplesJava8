@@ -1,4 +1,4 @@
-package com.jaiswalakshay.pairIterator;
+package com.jaiswalakshay.pairiterator;
 
 import java.util.Arrays;
 import java.util.Iterator;
